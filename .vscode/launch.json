@@ -11,6 +11,6 @@
                 "${workspaceRoot}/dest/**/*.js"
             ],
             "protocol": "inspector"
-        },
+        }
     ]
 }
