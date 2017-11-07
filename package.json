@@ -21,6 +21,7 @@
     "typescript": "^2.5.3"
   },
   "dependencies": {
+    "config": "^1.27.0",
     "log4js": "^2.3.10"
   }
 }
